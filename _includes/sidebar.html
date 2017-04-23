@@ -1,0 +1,82 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <div id="kate-face"></div>
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </nav>
+
+    <div class="media-line">
+      <ul class="social-media-list">
+	<li>
+	  <a href="mailto:{{ site.email }}">
+	    <span class="icon  icon--email">
+	      <svg viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+		                  <path fill="#828282" d="M256,50C142.229,50,50,142.229,50,256s92.229,206,206,206s206-92.229,206-206S369.771,50,256,50z
+                   M379.956,164.444l-122.951,94.297L134.25,164.444H379.956z M133.399,190.272l72.327,55.559l-72.327,72.327V190.272z M133.7,347.555
+                   l88.821-88.821l34.474,26.48l34.418-26.396l88.738,88.736H133.7z M380.6,318.307l-72.38-72.38l72.38-55.511V318.307z">
+	      </svg>
+	    </span>
+	  </a>
+	</li>
+	{% if site.linkedin_username %}
+	<li>
+	  <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+	    <span class="icon  icon--linkedin">
+	      <svg viewBox="0 0 512 512">
+		                  <path fill="#828282" d="M256.417,50c-113.771,0-206,92.229-206,206s92.229,206,206,206s206-92.229,206-206
+                  S370.188,50,256.417,50z M201.456,355.592h-45.229V209.469h45.229V355.592z M178.626,190.333c-14.771,0-26.746-12.072-26.746-26.963
+                  s11.975-26.963,26.746-26.963c14.77,0,26.745,12.072,26.745,26.963S193.396,190.333,178.626,190.333z M370.953,355.592h-45.01
+                  c0,0,0-55.666,0-76.703s-7.991-32.781-24.626-32.781c-18.103,0-27.562,12.231-27.562,32.781c0,22.504,0,76.703,0,76.703h-43.38
+                  V209.469h43.38v19.679c0,0,13.047-24.137,44.032-24.137c30.986,0,53.165,18.918,53.165,58.058
+                  C370.953,302.209,370.953,355.592,370.953,355.592z"/>
+	      </svg>
+	    </span>
+	  </a>
+	</li>
+	{% endif %}
+	{% if site.twitter_username %}
+	<li>
+	  <a href="https://twitter.com/{{ site.twitter_username }}">
+	    <span class="icon  icon--twitter">
+	      <svg viewBox="0 0 512 512">
+		                  <path fill="#828282" d="M256,50C142.229,50,50,142.229,50,256s92.229,206,206,206s206-92.229,206-206S369.771,50,256,50z
+                 M359.599,220.506c3.021,67.199-47.096,142.124-135.802,142.124c-26.981,0-52.096-7.911-73.238-21.466
+                c25.347,2.987,50.646-4.044,70.734-19.786c-20.907-0.386-38.554-14.198-44.632-33.181c7.486,1.432,14.851,1.013,21.575-0.816
+                c-22.976-4.617-38.839-25.317-38.321-47.453c6.44,3.58,13.81,5.729,21.642,5.977c-21.278-14.221-27.303-42.318-14.785-63.789
+                c23.563,28.906,58.77,47.928,98.478,49.92c-6.969-29.886,15.702-58.667,46.542-58.667c13.742,0,26.16,5.802,34.874,15.088
+                c10.884-2.143,21.108-6.119,30.341-11.594c-3.567,11.157-11.144,20.521-21.008,26.433c9.665-1.153,18.874-3.722,27.441-7.523
+                C377.035,205.355,368.935,213.771,359.599,220.506z"/>
+	      </svg>
+	    </span>
+	  </a>
+	</li>
+	{% endif %}
+      </ul>
+    </div>
+
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>

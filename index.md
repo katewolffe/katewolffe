@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 ---
-
 # Hi, I'm Kate.
 
 [Check out my resume here]({{base_url}}public/kate_wolffe_resume.pdf)

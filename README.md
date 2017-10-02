@@ -173,12 +173,12 @@ Configuration file: /Users/maxwolffe/Workspace/katewolffe.github.io/_config.yml
     Destination: /Users/maxwolffe/Workspace/katewolffe.github.io/_site
       Incremental build: disabled. Enable with --incremental
         Generating...
-	         done in 0.533 seconds.
-		       Auto-regeneration: enabled for '/Users/maxwolffe/Workspace/katewolffe.github.io'
-		             Configuration file: /Users/maxwolffe/Workspace/katewolffe.github.io/_config.yml
-			           Server address: http://127.0.0.1:4000//
-				         Server running... press ctrl-c to stop.
-					 ```
+        done in 0.533 seconds.
+        Auto-regeneration: enabled for '/Users/maxwolffe/Workspace/katewolffe.github.io'
+        Configuration file: /Users/maxwolffe/Workspace/katewolffe.github.io/_config.yml
+        Server address: http://127.0.0.1:4000//
+        Server running... press ctrl-c to stop.
+```
 
 Go to chrome and enter `http://127.0.0.1:4000` into the address. You should see this site (but with your changes.) It's running on your computer!
 

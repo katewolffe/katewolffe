@@ -11,7 +11,13 @@ title: Clip Portfolio
 
 [Unlikely undergraduates: The lives of Berkeley’s re-entry students](http://www.dailycal.org/2015/09/25/unlikely-undergraduates-the-lives-of-berkeleys-re-entry-students/)
 
+[Documenting distance: A profile on student Kiro Khalil](http://www.dailycal.org/2016/09/25/documenting-distance-profile-student-kiro-khalil/)
+
 ### Daily Cal News Clips
+
+[Campus welcomes 1st female chancellor](http://www.dailycal.org/2017/07/02/campus-welcomes-1st-female-chancellor/)
+
+[Berkeley fire, police personnel salary reaches high of $313k](http://www.dailycal.org/2017/07/12/406199/)
 
 [UC researchers take part in reopening of Large Hadron Collider](http://www.dailycal.org/2015/04/13/uc-researchers-take-part-in-reopening-of-large-hadron-collider/)
 

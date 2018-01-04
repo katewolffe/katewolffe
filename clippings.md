@@ -5,6 +5,7 @@ title: Clip Portfolio
 
 Here is a selection of recently published work. My full portfolio can be found on my Daily Californian [author page](http://www.dailycal.org/author/kwolffe/). 
 
+![My image](http://i1.wp.com/www.dailycal.org/assets/uploads/2015/11/anxiety_-John-Lawson.jpg?resize=900%2C570)
 ### The Weekender Magazine Feature Clips
 
 [Standing up for America without a leg to stand on](http://www.dailycal.org/2017/03/05/standing-america-without-leg-stand/)
@@ -15,6 +16,8 @@ Here is a selection of recently published work. My full portfolio can be found o
 
 [Documenting distance: A profile on student Kiro Khalil](http://www.dailycal.org/2016/09/25/documenting-distance-profile-student-kiro-khalil/)
 
+
+![My image](http://i2.wp.com/www.dailycal.org/assets/uploads/2017/07/copyedited_KatherineQiu_Salary.png?resize=900%2C579)
 ### Daily Cal News Clips
 
 [Campus welcomes 1st female chancellor](http://www.dailycal.org/2017/07/02/campus-welcomes-1st-female-chancellor/)
@@ -25,6 +28,7 @@ Here is a selection of recently published work. My full portfolio can be found o
 
 [Elections Council discusses possible campaign violations by executive candidates](http://www.dailycal.org/2015/03/08/elections-council-discusses-possible-campaign-violations-executive-candidates/)
 
+![My image](http://i0.wp.com/www.dailycal.org/assets/uploads/2016/02/Brine_Azcarraga_Weekender.jpg?resize=900%2C580)
 ### Personal Poetry
 
 [Sunrise (published in The Weekender Magazine 2/2016)](http://www.dailycal.org/2016/02/19/mouthful-of-brine-sunrise/)

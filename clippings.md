@@ -3,6 +3,8 @@ layout: page
 title: Clip Portfolio
 ---
 
+Here is a selection of recently published work. My full portfolio can be found on my Daily Californian [author page](http://www.dailycal.org/author/kwolffe/). 
+
 ### The Weekender Magazine Feature Clips
 
 [Standing up for America without a leg to stand on](http://www.dailycal.org/2017/03/05/standing-america-without-leg-stand/)
@@ -19,11 +21,9 @@ title: Clip Portfolio
 
 [Berkeley fire, police personnel salary reaches high of $313k](http://www.dailycal.org/2017/07/12/406199/)
 
-[UC researchers take part in reopening of Large Hadron Collider](http://www.dailycal.org/2015/04/13/uc-researchers-take-part-in-reopening-of-large-hadron-collider/)
+[Recent study by UC Berkeley researchers reveals economic effects of climate change](http://www.dailycal.org/2017/07/23/recent-study-uc-berkeley-researchers-reveals-economic-effects-climate-change/)
 
 [Elections Council discusses possible campaign violations by executive candidates](http://www.dailycal.org/2015/03/08/elections-council-discusses-possible-campaign-violations-executive-candidates/)
-
-[Berkeley elementary, middle school students set record for most Einstein look-alikes](http://www.dailycal.org/2015/03/05/berkeley-elementary-middle-school-students-set-record-einstein-look-alikes/)
 
 ### Personal Poetry
 

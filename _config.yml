@@ -9,7 +9,7 @@ title:            Katherine Elizabeth Anne Wolffe
 tagline:          'I think passion is contagious, and interest is palpable. As a reporter, my curiosity is never satiated.'
 description:      'Journalist, Creative Writer & UC Berkeley student'
 url:              http://www.katewolffe.com
-baseurl:          /
+baseurl:          http://localhost:4000/
 
 # Social Media Content
 email: katewolffe@gmail.com

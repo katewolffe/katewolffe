@@ -3,7 +3,7 @@ layout: default
 ---
 # Hi, I'm Kate.
 
-[Check out my resume here]({{base_url}}public/Kate_Wolffe_ResumeNBC.pdf)
+[Check out my resume here]({{base_url}}public/KateWolffe_Resume.pdf)
 
 I think passion is contagious, and interest is palpable. As a reporter, my curiosity is never satiated.
 
